@@ -185,7 +185,7 @@
                 opacity: .5;
             }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1440px) {
     .contenedorPrincipal{
         width: 410px;
         height: 420px;
