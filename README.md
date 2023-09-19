@@ -92,3 +92,80 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+Para hacer este desafío, necesitas tener un entendimiento básico de HTML, CSS y JavaScript.
+
+
+
+
+
+
+*************************************************************
+
+
+El desafío
+Tu desafío consiste en crear este componente interactivo de calificación y hacer que se vea lo más parecido posible al diseño.
+
+Puedes utilizar las herramientas que desees para completar el desafío. Así que si tienes algo que te gustaría practicar, siéntete libre de intentarlo.
+
+Tus usuarios deben poder:
+
+Ver el diseño óptimo de la aplicación según el tamaño de pantalla de su dispositivo.
+Ver estados de hover para todos los elementos interactivos en la página.
+Seleccionar y enviar una calificación numérica.
+Ver el estado de la tarjeta de "Gracias" después de enviar una calificación.
+¿Necesitas apoyo para el desafío? Únete a nuestra comunidad y haz preguntas en el canal #help.
+
+Dónde encontrar todo
+Tu tarea es construir el proyecto de acuerdo a los diseños dentro de la carpeta /design. Encontrarás tanto una versión móvil como de escritorio del diseño.
+
+Los diseños están en formato estático JPG. El uso de JPGs significa que deberás usar tu mejor criterio para estilos como font-size, padding y margin.
+
+Si deseas los archivos de diseño (proporcionamos versiones en Sketch y Figma) para inspeccionar el diseño en más detalle, puedes suscribirte como miembro PRO.
+
+Encontrarás todos los recursos requeridos en la carpeta /images. Los recursos ya están optimizados.
+
+También hay un archivo style-guide.md que contiene la información que necesitas, como la paleta de colores y las fuentes.
+
+Construyendo tu proyecto
+Siéntete libre de utilizar cualquier flujo de trabajo con el que te sientas cómodo. A continuación, se sugiere un proceso, pero no sientas que debes seguir estos pasos al pie de la letra:
+
+Inicializa tu proyecto como un repositorio público en GitHub. Crear un repositorio facilitará compartir tu código con la comunidad si necesitas ayuda. Si no estás seguro de cómo hacerlo, lee esta guía de recursos de Try Git.
+Configura tu repositorio para publicar tu código en una dirección web. Esto también será útil si necesitas ayuda durante un desafío, ya que puedes compartir la URL de tu proyecto con la URL de tu repositorio. Hay varias formas de hacerlo, y proporcionamos algunas recomendaciones a continuación.
+Examina los diseños para comenzar a planificar cómo abordarás el proyecto. Este paso es crucial para ayudarte a pensar en las clases de CSS que crearás para estilos reutilizables.
+Antes de agregar cualquier estilo, estructura tu contenido con HTML. Escribir tu HTML primero puede ayudarte a concentrarte en crear contenido bien estructurado.
+Escribe los estilos base para tu proyecto, incluyendo estilos generales de contenido, como font-family y font-size.
+Comienza a agregar estilos en la parte superior de la página y continúa hacia abajo. Avanza a la siguiente sección solo cuando estés seguro de que has completado la zona en la que estás trabajando.
+Despliegue de tu proyecto
+Como se mencionó anteriormente, hay muchas formas de alojar tu proyecto de forma gratuita. Nuestros hosts recomendados son:
+
+GitHub Pages
+Vercel
+Netlify
+Puedes alojar tu sitio utilizando una de estas soluciones o cualquiera de nuestros otros proveedores de confianza. Lee más sobre nuestros hosts recomendados y de confianza.
+
+Crear un README.md personalizado
+Recomendamos encarecidamente reemplazar este README.md con uno personalizado. Hemos proporcionado una plantilla dentro del archivo README-template.md en este código de inicio.
+
+La plantilla proporciona una guía sobre qué agregar. Un README personalizado te ayudará a explicar tu proyecto y reflexionar sobre lo que has aprendido. Siéntete libre de editar nuestra plantilla tanto como desees.
+
+Una vez que hayas agregado tu información a la plantilla, elimina este archivo y renombra el archivo README-template.md a README.md. Eso hará que aparezca como el archivo README de tu repositorio.
+
+Enviar tu solución
+Envía tu solución en la plataforma para que el resto de la comunidad la vea. Sigue nuestra "Guía completa para enviar soluciones" para obtener consejos sobre cómo hacerlo.
+
+Recuerda, si buscas retroalimentación sobre tu solución, asegúrate de hacer preguntas al enviarla. Cuanto más específicas y detalladas sean tus preguntas, mayor será la probabilidad de que obtengas retroalimentación valiosa de la comunidad.
+
+Compartir tu solución
+Hay varios lugares donde puedes compartir tu solución:
+
+Comparte la página de tu solución en el canal #finished-projects de la comunidad.
+Tuitea a @frontendmentor y menciona @frontendmentor, incluyendo las URL del repositorio y en vivo en el tuit. Nos encantaría echar un vistazo a lo que has construido y ayudar a compartirlo.
+Comparte tu solución en otras redes sociales como LinkedIn.
+Escribe sobre tu experiencia construyendo tu proyecto en un blog. Escribir sobre tu flujo de trabajo, elecciones técnicas y analizar tu código es una excelente manera de reforzar lo que has aprendido. Grandes plataformas para escribir son dev.to, Hashnode y CodeNewbie.
+Proporcionamos plantillas para ayudarte a compartir tu solución una vez que la hayas enviado en la plataforma. Por favor, edítalas e incluye preguntas específicas cuando busques retroalimentación.
+
+Cuanto más específicas sean tus preguntas, más probable es que otro miembro de la comunidad te dé retroalimentación.
+
+¿Tienes comentarios para nosotros?
+¡Nos encanta recibir comentarios! Siempre estamos buscando mejorar nuestros desafíos y nuestra plataforma. Entonces, si tienes algo que te gustaría mencionar, env
